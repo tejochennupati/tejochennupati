@@ -72,15 +72,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejochennupati&theme=react-dark&hide_border=true&area=true" width="100%" alt="Tejo's GitHub Activity Graph"/>
+<!-- Unbreakable SVG Contribution Snake Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejochennupati/tejochennupati/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejochennupati/tejochennupati/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/tejochennupati/tejochennupati/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 <br/><br/>
 
-[![GitHub Streak](https://ninja-streak-stats.vercel.app/?user=tejochennupati&theme=dark&hide_border=true)](https://github.com/tejochennupati)
-
-<br/>
-
-![Public Repos](https://img.shields.io/badge/Public_Repos-18-58A6FF?style=for-the-badge&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=tejochennupati&color=58A6FF&style=for-the-badge&label=Profile+Views)
+<!-- Real-time Shields API Badges -->
+![GitHub Stars](https://img.shields.io/github/stars/tejochennupati?style=for-the-badge&color=58A6FF&logo=github&logoColor=white)
+![GitHub Followers](https://img.shields.io/github/followers/tejochennupati?style=for-the-badge&color=3FB950&logo=github&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=tejochennupati&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/tejochennupati)
 
 </div>
