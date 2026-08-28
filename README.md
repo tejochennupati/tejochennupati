@@ -4,7 +4,7 @@
 
 <h1>Tejo Vardhan Kanth Chennupati</h1>
 
-<p>🚀 3rd Year Data Science Student | Aspiring ML Engineer</p>
+<p>🚀 3rd Year Data Science Student | Aspiring Agentic AI Systems Engineer</p>
 
 <p><em>he/him</em></p>
 
@@ -12,48 +12,59 @@
 
 [![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejochennupati?tab=repositories)
 [![Projects](https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/tejochennupati?tab=projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejochennupati)
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejochennupati@gmail.com)
 
 </div>
 
 ---
 
-## 🧰 Data Science Toolbox
+## 🧰 Agentic AI & Engineering Toolbox
 
 <div align="center">
 
-**Core Languages**
+**Agent Frameworks & Orchestration**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![AutoGPT](https://img.shields.io/badge/AutoGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+**LLMs, Vectors & RAG**
+
+![Groq API](https://img.shields.io/badge/Groq_API-F05A28?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=facebook&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Core ML & Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-**Data Manipulation & Viz**
-
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C9BE8?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
+**Developer Tools & Platforms**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🔭 Currently Exploring
+## 🔭 Currently Building & Exploring
 
-> 🎯 Deepening my understanding of Neural Networks and Natural Language Processing (NLP).
-> 🎯 Building end-to-end Data Science projects and deploying them using Streamlit or Flask.
+> 🎯 Architecting **Autonomous Multi-Agent Systems** using LangGraph and CrewAI for task orchestration.
+> 🎯 Implementing **Vector-Backed Long-Term Memory** and persistent state context graphs with FAISS.
+> 🎯 Transitioning RAG pipelines like **VibeVisualizer** toward dynamic tool calling and self-correction reflection loops.
 
 ---
 
