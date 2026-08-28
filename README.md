@@ -72,18 +72,13 @@
 
 <div align="center">
 
-<!-- Unbreakable SVG Contribution Snake Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejochennupati/tejochennupati/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejochennupati/tejochennupati/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/tejochennupati/tejochennupati/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<a href="https://github.com/tejochennupati?tab=repositories">
+  <img src="https://img.shields.io/github/stars/tejochennupati?style=for-the-badge&color=58A6FF&logo=github&logoColor=white&label=Total%20Stars" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/tejochennupati?style=for-the-badge&color=3FB950&logo=github&logoColor=white&label=Followers" alt="GitHub Followers"/>
+</a>
 
 <br/><br/>
 
-<!-- Real-time Shields API Badges -->
-![GitHub Stars](https://img.shields.io/github/stars/tejochennupati?style=for-the-badge&color=58A6FF&logo=github&logoColor=white)
-![GitHub Followers](https://img.shields.io/github/followers/tejochennupati?style=for-the-badge&color=3FB950&logo=github&logoColor=white)
 [![Profile Views](https://komarev.com/ghpvc/?username=tejochennupati&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/tejochennupati)
 
 </div>
