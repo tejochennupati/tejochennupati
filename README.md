@@ -68,12 +68,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejochennupati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170em" alt="Tejo's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejochennupati&layout=compact&theme=tokyonight&hide_border=true" height="170em" alt="Tejo's Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejochennupati&theme=react-dark&hide_border=true&area=true" width="100%" alt="Tejo's GitHub Activity Graph"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejochennupati&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165em" alt="Tejo's GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tejochennupati&layout=compact&theme=dark&hide_border=true" height="165em" alt="Tejo's Top Languages"/>
 
 <br/><br/>
 
