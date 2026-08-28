@@ -76,11 +76,11 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejochennupati&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165em" alt="Tejo's GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tejochennupati&layout=compact&theme=dark&hide_border=true" height="165em" alt="Tejo's Top Languages"/>
+[![GitHub Streak](https://ninja-streak-stats.vercel.app/?user=tejochennupati&theme=dark&hide_border=true)](https://github.com/tejochennupati)
 
-<br/><br/>
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tejochennupati&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/tejochennupati)
+![Public Repos](https://img.shields.io/badge/Public_Repos-18-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=tejochennupati&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
 </div>
