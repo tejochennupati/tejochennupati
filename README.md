@@ -72,14 +72,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejochennupati&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180em" alt="Tejo's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejochennupati&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="180em" alt="Tejo's Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tejochennupati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170em" alt="Tejo's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejochennupati&layout=compact&theme=tokyonight&hide_border=true" height="170em" alt="Tejo's Top Languages"/>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tejochennupati&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/tejochennupati)
 
